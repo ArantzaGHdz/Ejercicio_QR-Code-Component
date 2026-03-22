@@ -15,8 +15,8 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/ArantzaGHdz/Ejercicio_QR-Code-Component)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Repositorio en GitHub:** [Link del repositorio](https://github.com/ArantzaGHdz/Ejercicio_QR-Code-Component)
+- **Sitio desplegado (opcional):** [Link del deploy](https://)
 
 ---
 
