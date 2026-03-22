@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Outfit";
+  src: url("/assets/fonts/outfit/static/Outfit-Regular.ttf");
+}
+
+* {
+  font-family: "Outfit";
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+h1 {
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  color: hsl(216, 15%, 48%);
+}
